@@ -6,3 +6,7 @@ This setup utilizes Node-exporter on port 9100, Prometheus on port 9080 and Graf
 
 Install it with:
 git clone https://github.com/dprisc/docker-pi-monitor.git
+
+Added a forked grafana dashboard made to work with Raspberry Pi boards from https://grafana.com/grafana/dashboards/1860
+
+If you have any suggestions feel free to reach out!
